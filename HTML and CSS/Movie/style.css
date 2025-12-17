@@ -1,0 +1,86 @@
+body {
+    background-color: #001925;
+}
+
+/*estilo da descricao do filme*/
+.movie-desc {
+    margin: 100px;
+}
+
+.movie-desc h1 {
+    display: inline-block;
+    color: #fefffe;
+    border: 10px solid orange;
+    font-size: 70px;
+    margin-left: 10%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.movie-desc img {
+    display: block;
+    margin-top: 40px;
+    margin-left: 30%;
+    width: 40%;
+}
+
+.movie-info {
+    border: 10px solid #ff3f47;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.movie-info h2, a {
+    color: azure;
+    font-size: 30px;
+}
+
+.sinopse {
+    border-top: 10px solid #ff3f47;
+    border-bottom: 10px solid #ff3f47;
+    border-radius: 4px;
+}
+
+h3 {
+    color: azure;
+    font-size: 32px;
+}
+
+p {
+    color: rgb(219, 216, 216);
+    font-size: 32px;
+    padding-right: 200px;
+}
+
+.characters h2 {
+    margin: 50px 100px 0px;
+    color: azure;
+    font-size: 42px;
+    border-top: 10px solid #cde7e8;
+    border-radius: 4px;
+}
+
+.characters div {
+    display: inline-block;
+    margin: 25px 100px;
+}
+
+.characters h4 {
+    font-size: 32px;
+    color: rgb(219, 216, 216);
+}
+
+.characters img {
+    width: 50%;
+}
+
+.aki {
+    border-bottom: 10px solid #cde7e8;
+    border-radius: 4px;
+}
+
+footer {
+    color: azure;
+}
