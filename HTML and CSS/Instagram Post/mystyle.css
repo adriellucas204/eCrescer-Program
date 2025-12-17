@@ -1,0 +1,32 @@
+.profile-header{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.profile-header img {
+    width: 100%;
+}
+
+.post-buttons {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.post-buttons img{
+    padding: 10px 10px;
+    width: 45px;
+    height: 45px;
+}
+
+.save-button {
+    margin-left: auto;
+}
+
+.view-count img{
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 40%;
+}

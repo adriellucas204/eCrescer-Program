@@ -1,0 +1,38 @@
+.tags mark {
+  background-color: rgb(54, 53, 53);
+  color: white;
+  border-radius: 4px;
+}
+
+article h2 + p::first-letter {
+  initial-letter: 2;
+}
+
+.first-paragraph {
+  text-indent: 0;
+}
+
+p {
+  margin: 0;
+  text-indent: 30px;
+}
+
+.yellow {
+  background-color: rgb(224, 250, 74);
+}
+
+.blue {
+  background-color: skyblue;
+}
+
+.green {
+  background-color: lawngreen;
+}
+
+.orange {
+  background-color: orange;
+}
+
+del {
+  color: grey;
+}
